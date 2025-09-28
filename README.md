@@ -3,6 +3,12 @@
 ## Overview
 This project provides an end-to-end solution for automated brain tumor detection and classification using deep learning techniques. It includes a Jupyter notebook for model development and a modern Flask web application for real-time MRI image analysis.
 
+<img width="1470" height="919" alt="Screenshot 2025-09-28 at 16 25 46" src="https://github.com/user-attachments/assets/192b3b61-efb4-4307-ac60-5c755a4a2324" />
+
+<img width="1470" height="919" alt="Screenshot 2025-09-28 at 16 10 24" src="https://github.com/user-attachments/assets/e001c7d7-61d1-4150-a73d-81d5cd2142a3" />
+
+<img width="1470" height="919" alt="Screenshot 2025-09-28 at 16 09 23" src="https://github.com/user-attachments/assets/79f5958d-b82c-40f3-9d54-b133c7237f1b" />
+
 ## Features
 - Convolutional Neural Network (CNN) for multi-class brain tumor classification
 - Preprocessing pipeline: cropping, resizing, normalization
